@@ -1,0 +1,38 @@
+{
+  "name": "toheebbadru",
+  "version": "1.0.0",
+  "description": "personal NPM business card",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "toheebbadru": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/TBadru/toheebbadru.git)"
+  },
+  "keywords": [
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "Toheeb Badru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TBadru/toheebbadru/issues"
+  },
+  "homepage": "https://github.com/TBadru/toheebbadru/#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.10",
+    "node-fetch": "^2.7.0",
+    "open": "^9.1.0"
+  }
+  
+}
